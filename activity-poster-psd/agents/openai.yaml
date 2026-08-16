@@ -1,0 +1,3 @@
+display_name: 活动海报 PSD
+short_description: 替换社区活动 PSD 内容并导出高清海报
+default_prompt: 使用活动海报 PSD skill，把我提供的三条活动内容替换到模板中并导出高清 PNG。
